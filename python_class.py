@@ -1,1 +1,2 @@
-age = input("Get user's age")
+age = input("What's your age? ")
+print(age)
